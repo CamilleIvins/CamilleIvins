@@ -1,16 +1,14 @@
-CodeWorks Vue Starter
+Hello!
 =====================
-This template is designed to help get students started building vue applications
+Welcome to my GitHub page. In November 2023 I graduated from Boise CodeWorks and am continuing to explore software development.
+## Checkpoints
 
-## Legal Overview
+All the checkpoint projects are assignments from the BCW bootcamp. All received passing grades and represent the skills introduced during the previous week.
 
-The content under the CodeWorks®, LLC Organization and all of the individual repos are solely intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+Keepr, a Pinterest-style application, was our full stack final.
 
 ---
 
-## Copyright
+## Capstone
 
-© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
-
-
-<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
+The Geo-Stache capstone application was designed alongside Axel Arciniega, Sam Luna, Tiffany Hays, and Tyler Higby. It incorprates Google Map's API to allow users to play cache games.
